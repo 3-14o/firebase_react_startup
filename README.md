@@ -1,6 +1,6 @@
 # React Native Firebase App Template
 
-## use this as a starting point for an AI startup service. 
+## Use this as a starting point for an AI startup service. 
 
 ## Demo
 
